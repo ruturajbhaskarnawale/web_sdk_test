@@ -17,6 +17,7 @@
     "@angular/forms": "^21.2.0",
     "@angular/platform-browser": "^21.2.0",
     "@angular/router": "^21.2.0",
+    "@jodetx_dev/secureshield-web": "^4.0.1",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0"
   },
@@ -26,5 +27,18 @@
     "@angular/compiler-cli": "^21.2.0",
     "prettier": "^3.8.1",
     "typescript": "~5.9.2"
-  }
+  },
+  "description": "A fast, sleek, and responsive modern website built with **Angular (v21)**, **TypeScript**, and **Angular Signals**.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruturajbhaskarnawale/web_sdk_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruturajbhaskarnawale/web_sdk_test/issues"
+  },
+  "homepage": "https://github.com/ruturajbhaskarnawale/web_sdk_test#readme"
 }
